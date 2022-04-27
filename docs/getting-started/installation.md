@@ -7,6 +7,17 @@ show_sidebar: false
 toc: true
 ---
 
+# A collapsible section with markdown
+<details>
+  <summary>Click to expand!</summary>
+  
+  ## Heading
+  1. A numbered
+  2. list
+     * With some
+     * Sub bullets
+</details>
+
 ## Use the Gem with Jekyll
 
 **This theme requires Jekyll 3.9 to be compatible with GitHub Pages.**
@@ -39,3 +50,5 @@ If you are deploying to GitHub pages, then you can also install the [GitHub Page
 # With GitHub Pages Gem
 remote_theme: chrisrhymes/bulma-clean-theme
 ```
+
+
