@@ -16,8 +16,6 @@ toc: true
   
   </summary>
   
-  ~~test ~~
-  
   ## Heading
   1. A numbered
   2. list
